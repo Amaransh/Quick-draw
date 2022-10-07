@@ -1,0 +1,1 @@
+random_no = Math.floor((Math.random()*array_1.lenght)+1)
